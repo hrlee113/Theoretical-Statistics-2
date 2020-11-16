@@ -1,8 +1,7 @@
-# Theoretical Statistics
-## 2020/09/02 - 2020/12/09
+# Theoretical Statistics (2020/09/02 - 2020/12/09)
 
-### Project 1. 
+### Project1. 
 
-### Project 2.
+### Project2.
 
-### Project 3.
+### Project3.
