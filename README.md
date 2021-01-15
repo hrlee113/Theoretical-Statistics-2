@@ -1,4 +1,4 @@
-# Theoretical Statistics Ⅱ (2020/09/02 - 2020/12/16)   
+## Theoretical Statistics Ⅱ (2020/09/02 - 2020/12/16)   
   
 R & R shiny 를 이용한 어플리케이션 개발  
   
