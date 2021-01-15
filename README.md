@@ -2,8 +2,8 @@
   
 #### Tool : R · R shiny
   
-### Project1. Application for calculating Insurance  
+### 1. Application for calculating Insurance  
   
-### Project2. Application for predicting Optimal Portfolio
+### 2. Application for predicting Optimal Portfolio
   
   
