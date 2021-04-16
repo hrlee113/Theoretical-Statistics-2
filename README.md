@@ -11,7 +11,7 @@
 **[Link](https://hyerin0113.shinyapps.io/Project1_Insurance/)**
 <table>
   <tr>
-    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/115001371-88347680-9ede-11eb-9c98-e95770d7cc24.PNG" width="700px" alt=""/></a></td>
+    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/115001371-88347680-9ede-11eb-9c98-e95770d7cc24.PNG" alt=""/></a></td>
   </tr>
 </table>
   
