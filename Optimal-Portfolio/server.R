@@ -9,12 +9,12 @@ function(input, output){
     library(tidyverse)
     options(warn=-1)
     
-    data1 <- read_csv("GASshiny.csv")
-    data2 <- read_csv("KAshiny.csv")
-    data3 <- read_csv("KTshiny.csv")
-    data4 <- read_csv("NAshiny.csv")
-    data5 <- read_csv("SEshiny.csv")
-    i <- read_csv("ecosshiny.csv")
+    data1 <- read_csv("Data/GASshiny.csv")
+    data2 <- read_csv("Data/KAshiny.csv")
+    data3 <- read_csv("Data/KTshiny.csv")
+    data4 <- read_csv("Data/NAshiny.csv")
+    data5 <- read_csv("Data/SEshiny.csv")
+    i <- read_csv("Data/ecosshiny.csv")
     
     rtfx <- function(x) {
         diff(x)/x[1:(length(x)-1)]
