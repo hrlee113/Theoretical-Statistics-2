@@ -13,7 +13,7 @@ function(input, output){
     options(warn=-1)
     
     # Data load
-    dat=read.csv('data.csv')
+    dat=read.csv('Data/data.csv')
     colnames(dat)[1] <- 'Kilometres'
     zone_list <- c('Seoul & Gyeonggi-do', 'Gyeongsangnam-do', 'Gyeongsangbuk-do', 'Jeolla-do', 'Chungcheong-do', 'Gangwon-do', 'Jeju-island')
     kilo_list <- c('less than\n1000', '1000-15000', '15000-20000', '20000-25000', 'more than\n25000')
