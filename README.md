@@ -18,5 +18,9 @@
   
   
 ### Application for predicting Optimal Portfolio
-  
-  
+**[Application Link](https://hyerin0113.shinyapps.io/Project2_Optimal_Portfolio/)**  
+<table>
+  <tr>
+    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/115213624-aac3cb00-a13c-11eb-9132-b87158f2c5d1.PNG" alt=""/></a></td>
+  </tr>
+</table>
